@@ -8,7 +8,3 @@ I will run the algorithm three times with three different numbers of clusters (3
 
 This folder contains the Jupyter notebook I performed all of my analysis in, as well as all of the Folium map visualizations that did not properly render when being uploaded to Github.
 
-
-
-
-This project idea was inspired by Hamza Bendemra, Ph.D., who shared his project about creating an itinerary for visiting Paris. [Read more about his project here](https://towardsdatascience.com/using-unsupervised-learning-to-plan-a-paris-vacation-geo-location-clustering-d0337b4210de)
